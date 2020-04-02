@@ -22,6 +22,7 @@ version of the MP3.
 Reading Recommendations
 -----------------------
 
+- NY Post: [German state financial minister kills himself over coronavirus ‘despair’](https://nypost.com/2020/03/29/german-state-financial-minister-kills-himself-over-coronavirus-despair/)
 - [Arto's coronavirus reading list](https://www.goodreads.com/review/list/22170557?shelf=coronavirus)
 - [Arto’s thread of The Great Influenza quotes](https://twitter.com/bendiken/status/1235564878007435272)
 - [The Great Influenza: The Story of the Deadliest Pandemic in History](https://www.goodreads.com/book/show/6387532) by John Barry
