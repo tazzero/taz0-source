@@ -1,0 +1,47 @@
+baseURL = ""
+languageCode = "en-us"
+title = "TAZ 0"
+theme = "taz0"
+staticDir = ["static", "themes/taz0/static"]
+assetDir = "assets"
+
+[Author]
+name = "TAZ 0"
+email = "contact@taz0.org"
+
+[params]
+copyright = "&#xA9; 2019-2020 by TAZ 0"
+
+[params.Podcast]
+Title = "Cypherpunk Bitstream"
+Description = "Conversations about cryptoanarchy, cypherpunk, second realm and autonomous zones from the TAZ 0 in Berlin."
+Lang = "en"
+Author = "Frank Braun & Jonathan 'smuggler' Logan"
+Type = "Speech"
+Explicit = true
+cdn = "https://cdn.anarplex.net/"
+image = "bitstream/podcast.png"
+
+[params.Podcast.Category]
+name = "News & Politics"
+subcategories = ["Technology", "Philosophy"]
+
+[params.Podcast.Owner]
+name = "Cypherpunk Bitstream Team"
+email = "bitstream@taz0.org"
+
+[menu]
+    [[menu.niello]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+    [[menu.niello]]
+    name = "Bitstream Podcast"
+    url = "/bitstream/"
+    weight = 2
+
+    [[menu.niello]]
+    name = "Meetup"
+    url = "/subscribemail/signup/"
+    weight = 2

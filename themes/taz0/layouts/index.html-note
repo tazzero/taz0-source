@@ -1,0 +1,3 @@
+Alter range:
+            {{ range (.Paginate ( first 100 .Site.RegularPages.ByPublishDate.Reverse )).Pages }}
+{{end}}

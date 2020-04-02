@@ -1,0 +1,5 @@
+Bitcoin: 38mzCtXHjgq6RusYQsFy2TQiLvLK7vN5JF
+Bitcoin Cash: qrpwhtsag0u4rnuam9a5vwmqnly96znas5f5txjc35
+Decred: Dsi9j7SdwZrHtCfUmxTNgpVGx2YAboZc7ve
+Monero: 87UPx5sBS6g6wTvyRqqSMfFM6DzfHCPtFE25VC62vfohZVv4RRNcwif1XAPWTF27U1BKZEsrEXzDr6bMnGoTcThATvamE73
+Zcash: t1ewcXqQ9Uog5gMYjeeV46WiWB5j2SwD9Sv
