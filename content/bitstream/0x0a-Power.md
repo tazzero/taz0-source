@@ -1,6 +1,6 @@
 +++
 title = "Cypherpunk Bitstream 0x0a: Power"
-date = 2020-08-24T13:00:00Z
+date = 2020-08-25T13:00:00Z
 frontpage = true
 
 [Podcast]
