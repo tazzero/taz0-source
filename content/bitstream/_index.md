@@ -72,6 +72,10 @@ Please support Cypherpunk Bitstream by donating to:
 
 ![Monero donation address](../../cdn/cypherpunk-bitstream/monero-address.png)
 
+**NEAR**: [`bitstream.near`](near://bitstream.near)
+
+![NEAR donation address](../../cdn/cypherpunk-bitstream/near-address.png)
+
 **Zcash**: [`t1ewcXqQ9Uog5gMYjeeV46WiWB5j2SwD9Sv`](zcash://t1ewcXqQ9Uog5gMYjeeV46WiWB5j2SwD9Sv)
 
 ![Zcash donation address](../../cdn/cypherpunk-bitstream/zcash-address.png)

@@ -65,5 +65,7 @@ Please support Cypherpunk Bitstream by donating to:
 
 **Monero**: [`87UPx5sBS6g6wTvyRqqSMfFM6DzfHCPtFE25VC62vfohZVv4RRNcwif1XAPWTF27U1BKZEsrEXzDr6bMnGoTcThATvamE73`](monero://87UPx5sBS6g6wTvyRqqSMfFM6DzfHCPtFE25VC62vfohZVv4RRNcwif1XAPWTF27U1BKZEsrEXzDr6bMnGoTcThATvamE73)
 
+**NEAR**: [`bitstream.near`](near://bitstream.near)
+
 **Zcash**: [`t1ewcXqQ9Uog5gMYjeeV46WiWB5j2SwD9Sv`](zcash://t1ewcXqQ9Uog5gMYjeeV46WiWB5j2SwD9Sv)
 
