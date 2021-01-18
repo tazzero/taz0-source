@@ -9,7 +9,7 @@ explicit = true
 mp3 = "cdn/cypherpunk-bitstream/episodes/CypherpunkBitstream-0x0c-Censorship.mp3"
 +++
 
-We [talk](https://cdn.anarplex.net/cdn/cypherpunk-bitstream/episodes/CypherpunkBitstream-0x0c-Censorship.mp3) about censorship, messengers, Scrit, Gemini protocol, the Cyberpunk Age, and asymmetric warfare.
+We [talk](https://cdn.anarplex.net/cdn/cypherpunk-bitstream/episodes/CypherpunkBitstream-0x0c-Censorship.mp3) about censorship, messengers, Scrit, [Gemini protocol](https://gemini.circumlunar.space/), the Cyberpunk Age, and asymmetric warfare.
 
 Subscribe
 ---------
