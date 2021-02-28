@@ -28,7 +28,7 @@ Subscribe
 - [Overcast](https://overcast.fm/itunes1488466327/cypherpunk-bitstream)
 - [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly90YXowLm9yZy9iaXRzdHJlYW0vaW5kZXgueG1s)
 - [PlayerFM](https://player.fm/series/cypherpunk-bitstream)
-- [YouTube](https://www.youtube.com/channel/UCt-FpIueu3zuXjtOTYDo3Rw)
+- [YouTube](https://www.youtube.com/c/TAZ0Transmissions)
 
 Links
 -----
