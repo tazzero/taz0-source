@@ -58,7 +58,7 @@ Support
 
 Please support Cypherpunk Bitstream by donating to:
 
-**Bitcoin**: [`38mzCtXHjgq6RusYQsFy2TQiLvLK7vN5JF`](bitcoin://38mzCtXHjgq6RusYQsFy2TQiLvLK7vN5JF)
+**Bitcoin**: [`38mzCtXHjgq6RusYQsFy2TQiLvLK7vN5JF`](bitcoin://38mzCtXHjgq6RusYQsFy2TQiLvLK7vN5JF) (also via [lightning network](https://coinos.io/cypherpunkbitstream))
 
 **Bitcoin Cash**: [`qrpwhtsag0u4rnuam9a5vwmqnly96znas5f5txjc35`](bitcoincash://qrpwhtsag0u4rnuam9a5vwmqnly96znas5f5txjc35)
 
