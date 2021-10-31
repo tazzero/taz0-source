@@ -1,22 +1,18 @@
 +++
-title = "Cypherpunk Bitstream 0x0e: Culture Corruption"
-date = 2021-07-03T03:00:00Z
+title = "Cypherpunk Bitstream 0x0f: The Law Won't Save You"
+date = 2021-10-31T00:00:15Z
 frontpage = true
 
 [Podcast]
-episode = 14
+episode = 15
 explicit = true
-mp3 = "cdn/cypherpunk-bitstream/episodes/CypherpunkBitstream-0x0e-Culture-Corruption.mp3"
+mp3 = "cdn/cypherpunk-bitstream/episodes/CypherpunkBitstream-0x0f-TheLawWontSaveYou.mp3"
 +++
 
 In this
-[episode](https://cdn.anarplex.net/cdn/cypherpunk-bitstream/episodes/CypherpunkBitstream-0x0e-Culture-Corruption.mp3)
-we discuss cultural changes and contradictions in popular opinions which
-were formed over the last decade. We talk about cancel culture and the
-role of moderate views in the public discussion about social issues.
-Also, we reflect on the level of political and economic freedom around
-the world and how crypto-anarchism can minimize state and corporate
-power abuses.
+[episode](https://cdn.anarplex.net/cdn/cypherpunk-bitstream/episodes/CypherpunkBitstream-0x0f-TheLawWontSaveYou.mp3)
+episode we discuss Protonmail, lack of legal protection for privacy
+services, legal loopholes, and jurisdictional arbitrage.
 
 Subscribe
 ---------
